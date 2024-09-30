@@ -1,0 +1,76 @@
+.FRONT{
+width: Fill (375px)px;
+height: Hug (438px)px;
+gap: 0px;
+opacity: 0px;
+
+}
+.FRONT__container{
+          width: Fill (343px)px;
+height: Hug (94px)px;
+padding: 12px 0px 0px 0px;
+gap: 12px;
+border-radius: 12px 0px 0px 0px;
+opacity: 0px;
+background: #3131314D;
+
+
+}
+.Front__cont{
+          font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 19.36px;
+text-align: center;
+
+
+
+}
+.Front__cont #hi{
+          width: Fixed (56px)px;
+height: Hug (70px)px;
+gap: 8px;
+opacity: 0px;
+
+}
+.Front__cont #hi1{
+          width: Fixed (56px)px;
+height: Hug (70px)px;
+gap: 8px;
+opacity: 0px;
+
+}
+.Front__cont #hi2{
+          width: Fixed (56px)px;
+height: Hug (70px)px;
+gap: 8px;
+opacity: 0px;
+
+}
+.Front__cont #hi3{
+          width: Fixed (56px)px;
+height: Hug (70px)px;
+gap: 8px;
+opacity: 0px;
+
+}
+.Front__cont #hi4{
+          width: Fixed (56px)px;
+height: Hug (70px)px;
+gap: 8px;
+opacity: 0px;
+
+}
+.End{
+          width: 343px;
+height: 19px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 19.36px;
+text-align: center;
+background: #FFFFFF;
+
+}

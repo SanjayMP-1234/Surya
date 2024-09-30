@@ -1,0 +1,60 @@
+.FRONT{
+          width: 375px;
+        height: 300px;
+        padding: 16px 0px 0px 0px;
+        gap: 12px;
+        opacity: 0px;
+        background-color: purple;
+        }
+        .FRONT__container #sanj {
+          font-family: Inter;
+        font-size: 32px;
+        font-weight: 600;
+        line-height: 38.73px;
+        text-align: center;
+        
+        gap: 0px;
+        opacity: 0px;
+        background: #FFFFFF;
+        
+        
+        }
+        .FRONT__container #ho{
+          font-family: Inter;
+        font-size: 48px;
+        font-weight: 600;
+        line-height: 58.09px;
+        text-align: center;
+        background: #FFFFFF;
+        
+        gap: 0px;
+        opacity: 0px;
+        
+        }
+        .Front__cont{
+          font-family: Inter;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 19.36px;
+        text-align: center;
+        
+        gap: 0px;
+        opacity: 0px;
+        background: #FFFFFF;
+        
+        }
+        .End{
+        
+        
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 19.36px;
+        text-align: center;
+        width: 343px;
+        height: 19px;
+        gap: 0px;
+        opacity: 0px;
+        background: #FFFFFF;
+        
+        }
